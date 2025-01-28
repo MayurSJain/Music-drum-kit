@@ -13,10 +13,7 @@ Drum Kit is a fun and interactive web application where users can play drum soun
 
 ## Demo
 
-[Live Demo](https://yourusername.github.io/drum-kit/)  
-*(Replace with the link to your deployed project.)*
-
-
+[Live Demo](https://mayursjain.github.io/Music-drum-kit/)  
 
 ## Screenshots
 
