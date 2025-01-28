@@ -2,7 +2,6 @@
 
 Drum Kit is a fun and interactive web application where users can play drum sounds either by pressing specific keyboard keys or by clicking/tapping on drum pads. This beginner-friendly project is built using **HTML**, **CSS**, and **JavaScript**.
 
----
 
 ## Features
 
@@ -10,21 +9,20 @@ Drum Kit is a fun and interactive web application where users can play drum soun
 - **Click/Touch Support**: Tap on the drum pads to produce sounds.
 - **Responsive Design**: Works seamlessly on both desktop and mobile devices.
 
----
+
 
 ## Demo
 
 [Live Demo](https://yourusername.github.io/drum-kit/)  
 *(Replace with the link to your deployed project.)*
 
----
+
 
 ## Screenshots
 
 ![Drum Kit Screenshot](MusicBanter/files/image.png)  
 *(Upload your screenshot to the repository and replace `screenshot.png` with the correct path.)*
 
----
 
 ## Key Bindings
 
@@ -40,7 +38,7 @@ Drum Kit is a fun and interactive web application where users can play drum soun
 
 
 
----
+
   
 
 ### 1. Clone the Repository  
