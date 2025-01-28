@@ -18,7 +18,7 @@ Drum Kit is a fun and interactive web application where users can play drum soun
 ## Screenshots
 
 ![Drum Kit Screenshot](MusicBanter/files/image.png)  
-*(Upload your screenshot to the repository and replace `screenshot.png` with the correct path.)*
+
 
 
 ## Key Bindings
