@@ -14,7 +14,7 @@ Drum Kit is a fun and interactive web application where users can play drum soun
 
 ## Demo
 
-[Live Demo](https://MayurSJain.github.io/drum-kit/)  
+[Live Demo](https://yourusername.github.io/drum-kit/)  
 *(Replace with the link to your deployed project.)*
 
 ---
@@ -46,7 +46,7 @@ Drum Kit is a fun and interactive web application where users can play drum soun
 ### 1. Clone the Repository  
 Clone this repository to your local machine:  
 ```bash  
-git clone https://github.com/MayurSJain/drum-kit.git  
+git clone https://github.com/MayurSJain/Music-drum-kit.git 
 ```  
 
 ### 2. Navigate to the Project Folder  
